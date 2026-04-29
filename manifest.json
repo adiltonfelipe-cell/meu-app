@@ -1,0 +1,39 @@
+{
+  "background_color": "#ffffff",
+  "description": "Seu app diário de autocuidado: 30 receitas em 15 min, exercícios de 10 min/dia, hidratação e hábitos. Sem culpa, sem tempo perdido, sem milagre.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Método Mãe Leve",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Mãe Leve",
+  "start_url": "/",
+  "theme_color": "#ff4d6d",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/gpt-engineer-file-uploads/wFKRNV6b4EXozUCNStFhE1r4tLC3/social-images/social-1777306617863-logo_mae_3.webp",
+      "type": "image/webp",
+      "sizes": "1200x630",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": true,
+      "isJpg": false,
+      "width": 1200,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://metodo-mae-leve.lovable.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
